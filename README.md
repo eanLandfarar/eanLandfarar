@@ -2,4 +2,3 @@
 - 👀 I’m interested in Vex Robotics Competition
 - 🌱 I’m currently learning Python and C++
 - 💞️ My Vex Robotics Competition team (663Y) is going to the Vex Robotics Competition World Championship for the 2021-2022 Tipping Point game
-- 📫 How to reach me ean.landfare@gmail.com
